@@ -1,0 +1,32 @@
+ZADANIE 1: PACKET TRACER (IBA VERZIA 6.01) !
+20
+Stiahnuť cez FTP: Cisco Packet Tracer 6.0.1 for Windows (no tutorials).exe
+Packet Tracer Podmienky:
+1. Vytvorte vlastnú sieť:
+A) vytvoriť 3 separátne siete (hub alebo switch) min. jedna musí mať DHCP.
+B) min. jeden nakonfigurovaný router musí byť na sieti 
+C) min. jeden Server (jedna služba musí bežať DNS, Web Server, DHCP, FTP),
+2. Navyše výber komponent v sieti:
+Printer, Wireless AP, IP Phone, DSL modem, Cable modem, Voice IP, Analog
+Phone, TV, Wireless Tablet, Smart Device, Repeater, Coaxial, Wifi Klient,
+Bridge
+3. Ak budú siete pospajané cez static, resp. dyn. routing 20 bodov, ináč
+–5 bodov.
+(7,6,4), (2,5,3), (8,5,2), (4,3,5), (2,5,2), (3,6,4), (5,7,3), (3,2,5), (7,2,7), (4,3,2),
+(8,7,5), (2,9,3), (3,5,6), (6,6,4), (5,3,6), (8,3,5), (5,5,3), (5,4,7), (4,9,3),(5,4,3).
+Odovzdať na ďalšom cvičení doniesť na USB, nahráme na FTP,
+Neskoro odovzdané zadanie -5 bodov.
+Stiahnuť cez prehliadač: http://193.87.95.129/www/tracer6.exe
+resp. tracer6.ex
+21
+Obídenie statického a dynamického smerovania – 5 bodov
+Miestnosť 1
+Miestnosť 2
+Miestnosť 3
+Mie
+s
+t
+nos
+ť
+4
+jedna podsie
